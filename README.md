@@ -156,6 +156,31 @@ docker-compose down
 
 ![ER Diagram](./food_labeling_er_diagram.png)
 
+## 🔮 Future Scope
+
+Here are a few ways this project can be extended:
+
+- ✅ **Authentication & Authorization**  
+  Integrate Spring Security or JWT to allow user-level access and ownership of food/label data.
+
+- 📈 **Analytics and Usage Tracking**  
+  Add metrics to track most-used labels or food popularity over time.
+
+- 🗃️ **Label Categories / Hierarchy**  
+  Allow labels to be grouped (e.g., Dietary → Vegan, Gluten-Free) using parent-child relationships.
+
+- 📤 **Bulk Upload via CSV/JSON**  
+  Enable admins to upload large batches of food and label data via file upload.
+
+- 🌐 **Internationalization (i18n)**  
+  Add support for multilingual label and food names and descriptions.
+
+- 🔄 **Soft Deletes & Audit Logs**  
+  Track who modified or deleted a food/label, and allow restoring deleted items.
+
+- 📦 **Dockerized Full Stack**  
+  Add a front-end (React/Vue) and package everything into a full-stack Docker Compose setup.
+
 
 ## 📄 License
 
