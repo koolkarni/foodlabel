@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/food_labeling_db
+    username: postgres
+    password: postgres
+  profiles:
+    active:
+
+  graphiql:
+    enabled: true
+    endpoint: /graphql
+    mapping: /graphiql

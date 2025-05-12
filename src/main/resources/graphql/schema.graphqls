@@ -1,0 +1,37 @@
+type Food {
+  id: ID!
+  name: String!
+  description: String
+  labels: [Label!]!
+}
+
+type Label {
+  id: ID!
+  name: String!
+  count: Int
+}
+
+type Query {
+  allLabelsWithCount: [Label!]!
+  foodsByLabels(labels: [String!], page: Int, size: Int): [Food!]!
+}
+
+input LabelInput {
+  name: String!
+}
+
+input FoodInput {
+  name: String!
+  description: String
+  labelNames: [String!]!
+}
+
+type Mutation {
+  createLabel(input: LabelInput!): Label!
+  createFood(input: FoodInput!): Food!
+  updateLabel(id: ID!, name: String!): Label!
+  updateLabelByName(currentName: String!, newName: String!): Label!
+  updateFood(id: ID!, input: FoodInput!): Food!
+  deleteLabel(id: ID!): Boolean!
+  deleteFood(id: ID!): Boolean!
+}

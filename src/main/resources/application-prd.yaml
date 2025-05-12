@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://prd-db:5432/food_labeling_db
+    username: postgres
+    password: postgres
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: false
+  graphql:
+    graphiql:
+      enabled: false
