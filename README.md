@@ -22,8 +22,8 @@ A Spring Boot + GraphQL + PostgreSQL service to manage foods and their associate
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/food-labeling-api.git
-cd food-labeling-api
+git clone https://github.com/koolkarni/foodlabel.git
+cd foodlabel
 ```
 
 ### 2. Start PostgreSQL using Docker
