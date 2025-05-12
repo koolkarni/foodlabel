@@ -1,0 +1,272 @@
+mutation {
+  createFood1: createFood(input: { name: "Food 1", description: "Description for Food 1", labelNames: ["Label 1", "Label 2"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood2: createFood(input: { name: "Food 2", description: "Description for Food 2", labelNames: ["Label 3", "Label 4"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood3: createFood(input: { name: "Food 3", description: "Description for Food 3", labelNames: ["Label 5", "Label 6"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood4: createFood(input: { name: "Food 4", description: "Description for Food 4", labelNames: ["Label 7", "Label 8"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood5: createFood(input: { name: "Food 5", description: "Description for Food 5", labelNames: ["Label 9", "Label 10"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood6: createFood(input: { name: "Food 6", description: "Description for Food 6", labelNames: ["Label 11", "Label 12"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood7: createFood(input: { name: "Food 7", description: "Description for Food 7", labelNames: ["Label 13", "Label 14"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood8: createFood(input: { name: "Food 8", description: "Description for Food 8", labelNames: ["Label 15", "Label 16"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood9: createFood(input: { name: "Food 9", description: "Description for Food 9", labelNames: ["Label 17", "Label 18"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood10: createFood(input: { name: "Food 10", description: "Description for Food 10", labelNames: ["Label 19", "Label 20"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood11: createFood(input: { name: "Food 11", description: "Description for Food 11", labelNames: ["Label 21", "Label 22"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood12: createFood(input: { name: "Food 12", description: "Description for Food 12", labelNames: ["Label 23", "Label 24"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood13: createFood(input: { name: "Food 13", description: "Description for Food 13", labelNames: ["Label 25", "Label 26"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood14: createFood(input: { name: "Food 14", description: "Description for Food 14", labelNames: ["Label 27", "Label 28"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood15: createFood(input: { name: "Food 15", description: "Description for Food 15", labelNames: ["Label 29", "Label 30"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood16: createFood(input: { name: "Food 16", description: "Description for Food 16", labelNames: ["Label 31", "Label 32"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood17: createFood(input: { name: "Food 17", description: "Description for Food 17", labelNames: ["Label 33", "Label 34"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood18: createFood(input: { name: "Food 18", description: "Description for Food 18", labelNames: ["Label 35", "Label 36"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood19: createFood(input: { name: "Food 19", description: "Description for Food 19", labelNames: ["Label 37", "Label 38"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood20: createFood(input: { name: "Food 20", description: "Description for Food 20", labelNames: ["Label 39", "Label 40"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood21: createFood(input: { name: "Food 21", description: "Description for Food 21", labelNames: ["Label 41", "Label 42"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood22: createFood(input: { name: "Food 22", description: "Description for Food 22", labelNames: ["Label 43", "Label 44"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood23: createFood(input: { name: "Food 23", description: "Description for Food 23", labelNames: ["Label 45", "Label 46"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood24: createFood(input: { name: "Food 24", description: "Description for Food 24", labelNames: ["Label 47", "Label 48"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood25: createFood(input: { name: "Food 25", description: "Description for Food 25", labelNames: ["Label 49", "Label 50"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood26: createFood(input: { name: "Food 26", description: "Description for Food 26", labelNames: ["Label 1", "Label 2"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood27: createFood(input: { name: "Food 27", description: "Description for Food 27", labelNames: ["Label 3", "Label 4"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood28: createFood(input: { name: "Food 28", description: "Description for Food 28", labelNames: ["Label 5", "Label 6"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood29: createFood(input: { name: "Food 29", description: "Description for Food 29", labelNames: ["Label 7", "Label 8"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+  createFood30: createFood(input: { name: "Food 30", description: "Description for Food 30", labelNames: ["Label 9", "Label 10"] }) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+}

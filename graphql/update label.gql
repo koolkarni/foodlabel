@@ -1,0 +1,7 @@
+mutation {
+  updateLabelByName(currentName: "Label 34", newName: "Label 34 new") {
+    id
+    name
+    count
+  }
+}

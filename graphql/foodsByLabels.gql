@@ -1,0 +1,11 @@
+query {
+  foodsByLabels(labels: ["Label 1"], page: 0, size: 1) {
+    id
+    name
+    description
+    labels {
+      id
+      name
+    }
+  }
+}

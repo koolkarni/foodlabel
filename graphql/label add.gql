@@ -1,0 +1,252 @@
+mutation {
+  createLabel1: createLabel(input: { name: "Label 1" }) {
+    id
+    name
+    count
+  }
+  createLabel2: createLabel(input: { name: "Label 2" }) {
+    id
+    name
+    count
+  }
+  createLabel3: createLabel(input: { name: "Label 3" }) {
+    id
+    name
+    count
+  }
+  createLabel4: createLabel(input: { name: "Label 4" }) {
+    id
+    name
+    count
+  }
+  createLabel5: createLabel(input: { name: "Label 5" }) {
+    id
+    name
+    count
+  }
+  createLabel6: createLabel(input: { name: "Label 6" }) {
+    id
+    name
+    count
+  }
+  createLabel7: createLabel(input: { name: "Label 7" }) {
+    id
+    name
+    count
+  }
+  createLabel8: createLabel(input: { name: "Label 8" }) {
+    id
+    name
+    count
+  }
+  createLabel9: createLabel(input: { name: "Label 9" }) {
+    id
+    name
+    count
+  }
+  createLabel10: createLabel(input: { name: "Label 10" }) {
+    id
+    name
+    count
+  }
+  createLabel11: createLabel(input: { name: "Label 11" }) {
+    id
+    name
+    count
+  }
+  createLabel12: createLabel(input: { name: "Label 12" }) {
+    id
+    name
+    count
+  }
+  createLabel13: createLabel(input: { name: "Label 13" }) {
+    id
+    name
+    count
+  }
+  createLabel14: createLabel(input: { name: "Label 14" }) {
+    id
+    name
+    count
+  }
+  createLabel15: createLabel(input: { name: "Label 15" }) {
+    id
+    name
+    count
+  }
+  createLabel16: createLabel(input: { name: "Label 16" }) {
+    id
+    name
+    count
+  }
+  createLabel17: createLabel(input: { name: "Label 17" }) {
+    id
+    name
+    count
+  }
+  createLabel18: createLabel(input: { name: "Label 18" }) {
+    id
+    name
+    count
+  }
+  createLabel19: createLabel(input: { name: "Label 19" }) {
+    id
+    name
+    count
+  }
+  createLabel20: createLabel(input: { name: "Label 20" }) {
+    id
+    name
+    count
+  }
+  createLabel21: createLabel(input: { name: "Label 21" }) {
+    id
+    name
+    count
+  }
+  createLabel22: createLabel(input: { name: "Label 22" }) {
+    id
+    name
+    count
+  }
+  createLabel23: createLabel(input: { name: "Label 23" }) {
+    id
+    name
+    count
+  }
+  createLabel24: createLabel(input: { name: "Label 24" }) {
+    id
+    name
+    count
+  }
+  createLabel25: createLabel(input: { name: "Label 25" }) {
+    id
+    name
+    count
+  }
+  createLabel26: createLabel(input: { name: "Label 26" }) {
+    id
+    name
+    count
+  }
+  createLabel27: createLabel(input: { name: "Label 27" }) {
+    id
+    name
+    count
+  }
+  createLabel28: createLabel(input: { name: "Label 28" }) {
+    id
+    name
+    count
+  }
+  createLabel29: createLabel(input: { name: "Label 29" }) {
+    id
+    name
+    count
+  }
+  createLabel30: createLabel(input: { name: "Label 30" }) {
+    id
+    name
+    count
+  }
+  createLabel31: createLabel(input: { name: "Label 31" }) {
+    id
+    name
+    count
+  }
+  createLabel32: createLabel(input: { name: "Label 32" }) {
+    id
+    name
+    count
+  }
+  createLabel33: createLabel(input: { name: "Label 33" }) {
+    id
+    name
+    count
+  }
+  createLabel34: createLabel(input: { name: "Label 34" }) {
+    id
+    name
+    count
+  }
+  createLabel35: createLabel(input: { name: "Label 35" }) {
+    id
+    name
+    count
+  }
+  createLabel36: createLabel(input: { name: "Label 36" }) {
+    id
+    name
+    count
+  }
+  createLabel37: createLabel(input: { name: "Label 37" }) {
+    id
+    name
+    count
+  }
+  createLabel38: createLabel(input: { name: "Label 38" }) {
+    id
+    name
+    count
+  }
+  createLabel39: createLabel(input: { name: "Label 39" }) {
+    id
+    name
+    count
+  }
+  createLabel40: createLabel(input: { name: "Label 40" }) {
+    id
+    name
+    count
+  }
+  createLabel41: createLabel(input: { name: "Label 41" }) {
+    id
+    name
+    count
+  }
+  createLabel42: createLabel(input: { name: "Label 42" }) {
+    id
+    name
+    count
+  }
+  createLabel43: createLabel(input: { name: "Label 43" }) {
+    id
+    name
+    count
+  }
+  createLabel44: createLabel(input: { name: "Label 44" }) {
+    id
+    name
+    count
+  }
+  createLabel45: createLabel(input: { name: "Label 45" }) {
+    id
+    name
+    count
+  }
+  createLabel46: createLabel(input: { name: "Label 46" }) {
+    id
+    name
+    count
+  }
+  createLabel47: createLabel(input: { name: "Label 47" }) {
+    id
+    name
+    count
+  }
+  createLabel48: createLabel(input: { name: "Label 48" }) {
+    id
+    name
+    count
+  }
+  createLabel49: createLabel(input: { name: "Label 49" }) {
+    id
+    name
+    count
+  }
+  createLabel50: createLabel(input: { name: "Label 50" }) {
+    id
+    name
+    count
+  }
+}

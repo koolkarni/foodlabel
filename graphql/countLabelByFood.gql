@@ -1,0 +1,7 @@
+query {
+  allLabelsWithCount {
+    id
+    name
+    count
+  }
+}
